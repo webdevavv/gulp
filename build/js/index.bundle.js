@@ -1,1 +1,0 @@
-new Swiper(".mySwiper",{navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}}),Fancybox.bind('[data-fancybox="gallery"]',{});
